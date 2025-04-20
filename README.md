@@ -1,3 +1,3 @@
 - 👋 Salut ! Je suis @Deglam
-- 👀 Je suis actuellement interresé par le developpement
-- 🌱 J'apprend actuellement le Python et le Java !
+- 👀 Je suis un développeur Java
+- 🕹️ J'apprends les Packets Minecraft 1.8.8 et MongoDB
