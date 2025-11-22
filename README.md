@@ -5,7 +5,7 @@
 
 <br clear="both">
 
-<h3 align="left">🍃   17yo Java developper<br>💻    Coding Minecraft plugins<br>📕    I'm studying at University of Lille</h3>
+<h3 align="left">🍃   18yo Java developper<br>💻    Coding Minecraft plugins<br>📕    I'm studying at University of Lille</h3>
 
 ###
 
