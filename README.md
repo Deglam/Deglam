@@ -43,6 +43,8 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="32" alt="kubernetes logo"  />
   <img width="20" />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="32" alt="rust logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Scala-F4661B?logo=scala&logoColor=white&style=for-the-badge" height="32" alt="scala logo" />
 </div>
 
 ###
