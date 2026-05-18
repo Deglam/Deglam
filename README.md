@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left">🎓 Skills in programming:</h3>
+<h3 align="left">🎓 Skills:</h3>
 
 ###
 
@@ -41,12 +41,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="32" alt="kubernetes logo"  />
   <img width="20" />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="32" alt="rust logo"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=#54813F"  />
 </div>
 
 ###
